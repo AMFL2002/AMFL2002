@@ -10,7 +10,7 @@
    <br>
 </h2>
 👩🏽‍💻 Poseo el Grado Superior de DAM.<br>
-📡 Me encuentro finalizando una Ingeniería en Tecnología y Servicios de Telecomunicaciones.
+📡 Me encuentro finalizando una Ingeniería en Tecnología y Servicios de Telecomunicaciones.<br>
 💼 Cuento con un año de experiencia laboral en programación y en el manejo de bases de datos, incluyendo tareas de diseño, implementación y optimización.
 
 <h2 align="center">
